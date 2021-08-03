@@ -17,5 +17,5 @@
             "Perspective\\TutorialEntity\\": ""
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
