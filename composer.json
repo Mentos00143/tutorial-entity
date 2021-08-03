@@ -1,0 +1,21 @@
+{
+    "name": "sarumentos/tutorial-entity",
+    "version": "0.0.1",
+    "description": "N/A",
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*"
+    },
+    "license": [
+        "proprietary"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Perspective\\TutorialEntity\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
