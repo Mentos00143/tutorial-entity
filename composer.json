@@ -16,5 +16,6 @@
         "psr-4": {
             "Perspective\\TutorialEntity\\": ""
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
